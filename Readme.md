@@ -1,7 +1,7 @@
-**DOCUMENTATION API GROUPE 12**
+**DOCUMENTATION API GROUPE 5**
 -
 ***
-Bienvenu sur le projet du **groupe 12**.
+Bienvenu sur le projet du **groupe 5**.
 Vous trouverez dans le **dossier postman** une collection d'API que vous pouvez 
 importter dans votre postman ou insomnia afin de tester les API
 ***
